@@ -20,3 +20,5 @@ For basic communication, it worked fine. However, there are problem that I am un
 When you are at F8, wow! There are some part of the message that I have yet to decode. Most of the messages are used by the system to track your position, the channel, the dungeon , your party etc. I can remove those but I decided to leave it there.
 
 In the meantime, have fun! Any suggestion or feedback is welcome!
+
+USE AT YOUR OWN RISK!
