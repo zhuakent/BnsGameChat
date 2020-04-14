@@ -5,7 +5,8 @@ This program uses Pcap.Net to capture the message arrived at your PC and decode 
 
 As this is written in WPF, to sendkeys, InputSimulator is used to make my life easier. You can input the text onto the editable ComboBox and send the message to the chat box of the game. The message will be sent to the current default Chat Channel. To send the message to a different chat channel, used the Game Chat command. Example to send to faction channel :"/f your message" or to region "/z your message".
 
-As I am a non-native player, I find it difficult to communicate in Chinese especially in the Traditional Chinese. Google web translation is used to help me in the translation between language. As thie is not using the Google API, please refrain from using it too often or you may be locked out for a time period. An alternative is to used the cut and paste function provided by the combobox.  There is also a custom list of the commonly used phrases that can be customized. Go to the program directory and edit the custom.txt file, put in your custom text and reload it. The custom list appear on the dropdown of the combobox.  
+There is also a custom list of the commonly used phrases that can be customized. Go to the program directory and edit the custom.txt file, put in your custom text and reload it. The custom list appear on the dropdown of the combobox. There are much more that you can do with this program.
+
 If your purpose is just for sending messages, you don't have to turn on the Chat capture.
 
 The program allow you to save a log file, cap at 512Kbytes. Once it exceeded the cap limit, the old file will be renamed and a new files: log.txt is created. However, the program only detect the file size when you click on Log file command. As a precaution, please don't log it and let it run forever as the file can get very large.
